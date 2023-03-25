@@ -9,6 +9,6 @@ while num<0 or num>=1:
     num= int(input('Digite um número:'))
     tab=1
 print('Não tem tabuada do 0')
-print('Essa é a tabuada do número digitado')
+print('Essa é a tabuada do número digitado!')
 
 
